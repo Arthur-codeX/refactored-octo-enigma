@@ -1,7 +1,9 @@
 function Page() {
   return (
     <div>
-      <h1>Page 1 comming soon</h1>
+      <h1>This page 1</h1>
+      <h1>Story of my life</h1>
+      <h1>Codding is awsome</h1>
     </div>
   );
 }
